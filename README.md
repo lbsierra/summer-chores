@@ -6,3 +6,6 @@ Run using node callbackVersion.js
 
 The promise version uses promises and chained .then() instead of callback nesting.
 Run using node promiseVersion.js
+
+The async/await version uses asynchronous functions to complete the chores in a more readable way.
+Run using node asyncAwaitVersion.js
